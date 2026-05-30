@@ -2,7 +2,7 @@
   <img src="/img/aero.png" width="50%">
 </p>
 
-<h1 align="center">Aero-Modelling Club IIT (BHU)<br>Summer Camp 2025</h1>
+<h1 align="center">Aero-Modelling Club IIT (BHU)<br>Summer Camp 2026</h1>
 
 ---
 
