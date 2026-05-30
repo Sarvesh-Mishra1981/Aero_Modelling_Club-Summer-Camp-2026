@@ -8,7 +8,7 @@
 
 ### 🚁 Hey Drone Enthusiasts!
 
-Welcome to the **Aero-Modelling Club's Summer Camp 2025** — your ultimate gateway into the thrilling world of drones! 🌟
+Welcome to the **Aero-Modelling Club's Summer Camp 2026** — your ultimate gateway into the thrilling world of drones! 🌟
 
 Specially curated for freshers, this electrifying program will guide you through everything from drone fundamentals to advanced real-world applications. Whether you're dreaming of building, flying, or mastering autonomous systems — this camp is where it all begins.
 
