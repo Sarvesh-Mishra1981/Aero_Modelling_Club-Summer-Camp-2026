@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/img/aero.png" width="50%">
+  <img src="img/aero.png" width="50%">
 </p>
 
 <h1 align="center">Aero-Modelling Club IIT (BHU)<br>Summer Camp 2026</h1>
@@ -68,7 +68,7 @@ Learn how to **design your own aerial vehicles**:
 **📆 20 June – 22 June**
 
 <p align="center">
-  <img src="/img/airplane.png" width="50%">
+  <img src="img/airplane.png" width="50%">
 </p>
 
 Understand the **fundamentals of flight** — how lift is generated, how aircraft stay stable, and how they maneuver in air. Explore:
